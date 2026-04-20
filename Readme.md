@@ -10,7 +10,7 @@ Este projeto faz parte dos meus estudos de **Visão Computacional**. O objetivo 
 - **Análise de Componentes Conectados**: Função `bwconncomp` para a contagem final.
 
 ## 📸 Resultado
-![![[images/result.png]]]
+![![Resultado da Contagem](images/result.png)]
 
 ---
 
