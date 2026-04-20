@@ -10,7 +10,7 @@ Este projeto faz parte dos meus estudos de **Visão Computacional**. O objetivo 
 - **Análise de Componentes Conectados**: Função `bwconncomp` para a contagem final.
 
 ## 📸 Resultado
-![![[blueberries_result.png]]]
+![![[images/result.png]]]
 
 ---
 
@@ -41,5 +41,5 @@ This project is part of my **Computer Vision** studies. It focuses on identifyin
     
 
 ## 📸 Results
-
-![[blueberries_result.png]]_
+![Resultado da Contagem](images/result.png)
+_
